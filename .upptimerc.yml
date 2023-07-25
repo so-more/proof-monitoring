@@ -23,8 +23,8 @@ assignees: # Users to assign downtime issues (optional)
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: status.fazeproof.com
-  baseUrl: /proof-monitoring
+  cname: status.fazeproof.com
+  #baseUrl: /proof-monitoring
   logoUrl: https://raw.githubusercontent.com/so-more/proof/main/static/img/icon.svg
   name: Proof
   introTitle: Proof is the AI-driven application that empowers entrepreneurs and small businesses to accelerate their success with less risk.
