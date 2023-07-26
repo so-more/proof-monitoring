@@ -4,19 +4,19 @@
     "url": "https://fazeproof.com",
     "icon": "https://icons.duckduckgo.com/ip3/fazeproof.com.ico",
     "slug": "website-fazeproof-com",
-    "status": "down",
-    "uptime": "92.20%",
-    "uptimeDay": "92.20%",
-    "uptimeWeek": "92.20%",
-    "uptimeMonth": "92.20%",
-    "uptimeYear": "92.20%",
-    "time": 668,
-    "timeDay": 668,
-    "timeWeek": 668,
-    "timeMonth": 668,
-    "timeYear": 668,
+    "status": "up",
+    "uptime": "91.22%",
+    "uptimeDay": "91.22%",
+    "uptimeWeek": "91.22%",
+    "uptimeMonth": "91.22%",
+    "uptimeYear": "91.22%",
+    "time": 560,
+    "timeDay": 560,
+    "timeWeek": 560,
+    "timeMonth": 560,
+    "timeYear": 560,
     "dailyMinutesDown": {
-      "2023-07-26": 19,
+      "2023-07-26": 27,
       "2023-07-25": 39
     }
   },
@@ -26,19 +26,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fazeproof.com.ico",
     "slug": "website-www-fazeproof-com",
     "status": "up",
-    "uptime": "98.82%",
-    "uptimeDay": "98.82%",
-    "uptimeWeek": "98.82%",
-    "uptimeMonth": "98.82%",
-    "uptimeYear": "98.82%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 217,
     "timeDay": 217,
     "timeWeek": 217,
     "timeMonth": 217,
     "timeYear": 217,
-    "dailyMinutesDown": {
-      "2023-07-26": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Proof Web - Production",
@@ -46,19 +44,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.fazeproof.com.ico",
     "slug": "proof-web-production",
     "status": "up",
-    "uptime": "98.89%",
-    "uptimeDay": "98.89%",
-    "uptimeWeek": "98.89%",
-    "uptimeMonth": "98.89%",
-    "uptimeYear": "98.89%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 285,
     "timeDay": 285,
     "timeWeek": 285,
     "timeMonth": 285,
     "timeYear": 285,
-    "dailyMinutesDown": {
-      "2023-07-26": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Proof Web - Staging",
@@ -66,19 +62,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.fazeproof.com.ico",
     "slug": "proof-web-staging",
     "status": "up",
-    "uptime": "98.95%",
-    "uptimeDay": "98.95%",
-    "uptimeWeek": "98.95%",
-    "uptimeMonth": "98.95%",
-    "uptimeYear": "98.95%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 157,
     "timeDay": 157,
     "timeWeek": 157,
     "timeMonth": 157,
     "timeYear": 157,
-    "dailyMinutesDown": {
-      "2023-07-26": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Proof Android CI/CD",
@@ -97,7 +91,7 @@
     "timeMonth": 855,
     "timeYear": 855,
     "dailyMinutesDown": {
-      "2023-07-26": 705,
+      "2023-07-26": 713,
       "2023-07-25": 40
     }
   },
@@ -107,18 +101,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wcclrbfbgolsffkzxlay.supabase.co.ico",
     "slug": "proof-i-os-ci-cd",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 297,
     "timeDay": 297,
     "timeWeek": 297,
     "timeMonth": 297,
     "timeYear": 297,
     "dailyMinutesDown": {
-      "2023-07-26": 705,
+      "2023-07-26": 713,
       "2023-07-25": 40
     }
   },
@@ -139,7 +133,7 @@
     "timeMonth": 234,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2023-07-26": 705,
+      "2023-07-26": 713,
       "2023-07-25": 40
     }
   }
