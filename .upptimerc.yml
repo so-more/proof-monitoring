@@ -6,16 +6,20 @@ sites:
     url: https://fazeproof.com
   - name: Website (www.fazeproof.com)
     url: https://www.fazeproof.com
-  - name: Proof Web - Production
-    url: https://app.fazeproof.com
-  - name: Proof Web - Staging
+  - name: Proof (be.fazeproof.com)
+    url: https://be.fazeproof.com
+  - name: Proof - Staging
+    url: https://try.be.fazeproof.com
+  - name: Proof - Testing
     url: https://test.fazeproof.com
-  - name: Proof Android CI/CD
+  - name: Proof Deployments - Android
     url: https://wcclrbfbgolsffkzxlay.supabase.co/functions/v1/check-workflow-status?workflow=android
-  - name: Proof iOS CI/CD
+  - name: Proof Deployments - iOS
     url: https://wcclrbfbgolsffkzxlay.supabase.co/functions/v1/check-workflow-status?workflow=ios
-  - name: Proof Web CI/CD
+  - name: Proof Deployments - Web
     url: https://wcclrbfbgolsffkzxlay.supabase.co/functions/v1/check-workflow-status?workflow=web
+  - name: Proof Builds
+    url: https://wcclrbfbgolsffkzxlay.supabase.co/functions/v1/check-workflow-status?workflow=builds
 
 assignees: # Users to assign downtime issues (optional)
   - inslayn
@@ -26,7 +30,7 @@ status-website:
   cname: status.fazeproof.com
   #baseUrl: /proof-monitoring
   logoUrl: https://uploads-ssl.webflow.com/643defc9e5568913d9c02afd/643e50088b508e4253de1c61_Proof%20Logo%20tpbg.svg
-  name: Proof
+  name: 
   introTitle: Proof is the AI-driven application that empowers entrepreneurs and small businesses to accelerate their success with less risk.
 introMessage: Harness the power of AI with Proof to propel your business forward. Our application is designed to minimize risks and maximize success for entrepreneurs and small businesses. No need for extensive resources or technical knowledge. Let Proof do the heavy lifting, so you can focus on what you do best – growing your business.
 navbar:
