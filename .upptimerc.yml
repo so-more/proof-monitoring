@@ -30,7 +30,7 @@ status-website:
   cname: status.fazeproof.com
   #baseUrl: /proof-monitoring
   logoUrl: https://uploads-ssl.webflow.com/643defc9e5568913d9c02afd/643e50088b508e4253de1c61_Proof%20Logo%20tpbg.svg
-  name:  
+  name: ' '
   introTitle: Proof is the AI-driven application that empowers entrepreneurs and small businesses to accelerate their success with less risk.
 introMessage: Harness the power of AI with Proof to propel your business forward. Our application is designed to minimize risks and maximize success for entrepreneurs and small businesses. No need for extensive resources or technical knowledge. Let Proof do the heavy lifting, so you can focus on what you do best – growing your business.
 navbar:
