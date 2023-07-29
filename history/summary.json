@@ -97,17 +97,17 @@
     "url": "https://wcclrbfbgolsffkzxlay.supabase.co/functions/v1/check-workflow-status?workflow=android",
     "icon": "https://icons.duckduckgo.com/ip3/wcclrbfbgolsffkzxlay.supabase.co.ico",
     "slug": "proof-deployments-android",
-    "status": "up",
-    "uptime": "3.36%",
-    "uptimeDay": "0.64%",
-    "uptimeWeek": "3.36%",
-    "uptimeMonth": "3.36%",
-    "uptimeYear": "3.36%",
-    "time": 1305,
-    "timeDay": 976,
-    "timeWeek": 1305,
-    "timeMonth": 1305,
-    "timeYear": 1305,
+    "status": "down",
+    "uptime": "3.74%",
+    "uptimeDay": "1.39%",
+    "uptimeWeek": "3.74%",
+    "uptimeMonth": "3.74%",
+    "uptimeYear": "3.74%",
+    "time": 1285,
+    "timeDay": 969,
+    "timeWeek": 1285,
+    "timeMonth": 1285,
+    "timeYear": 1285,
     "dailyMinutesDown": {
       "2023-07-29": 1377,
       "2023-07-28": 1286
@@ -130,7 +130,7 @@
     "timeMonth": 511,
     "timeYear": 511,
     "dailyMinutesDown": {
-      "2023-07-29": 1387,
+      "2023-07-29": 1398,
       "2023-07-28": 1312
     }
   },
