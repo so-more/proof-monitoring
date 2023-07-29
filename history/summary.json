@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/fazeproof.com.ico",
     "slug": "website-fazeproof-com",
     "status": "up",
-    "uptime": "98.46%",
+    "uptime": "98.49%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.46%",
-    "uptimeMonth": "98.46%",
-    "uptimeYear": "98.46%",
+    "uptimeWeek": "98.49%",
+    "uptimeMonth": "98.49%",
+    "uptimeYear": "98.49%",
     "time": 459,
     "timeDay": 409,
     "timeWeek": 459,
@@ -98,18 +98,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/wcclrbfbgolsffkzxlay.supabase.co.ico",
     "slug": "proof-deployments-android",
     "status": "down",
-    "uptime": "6.35%",
-    "uptimeDay": "6.35%",
-    "uptimeWeek": "6.35%",
-    "uptimeMonth": "6.35%",
-    "uptimeYear": "6.35%",
+    "uptime": "6.02%",
+    "uptimeDay": "6.02%",
+    "uptimeWeek": "6.02%",
+    "uptimeMonth": "6.02%",
+    "uptimeYear": "6.02%",
     "time": 1407,
     "timeDay": 1407,
     "timeWeek": 1407,
     "timeMonth": 1407,
     "timeYear": 1407,
     "dailyMinutesDown": {
-      "2023-07-28": 1230
+      "2023-07-29": 16,
+      "2023-07-28": 1286
     }
   },
   {
@@ -118,18 +119,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/wcclrbfbgolsffkzxlay.supabase.co.ico",
     "slug": "proof-deployments-i-os",
     "status": "down",
-    "uptime": "4.42%",
-    "uptimeDay": "4.42%",
-    "uptimeWeek": "4.42%",
-    "uptimeMonth": "4.42%",
-    "uptimeYear": "4.42%",
+    "uptime": "4.19%",
+    "uptimeDay": "4.19%",
+    "uptimeWeek": "4.19%",
+    "uptimeMonth": "4.19%",
+    "uptimeYear": "4.19%",
     "time": 487,
     "timeDay": 487,
     "timeWeek": 487,
     "timeMonth": 487,
     "timeYear": 487,
     "dailyMinutesDown": {
-      "2023-07-28": 1257
+      "2023-07-29": 16,
+      "2023-07-28": 1312
     }
   },
   {
