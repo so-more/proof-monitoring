@@ -1,7 +1,7 @@
 url: https://wcclrbfbgolsffkzxlay.supabase.co/functions/v1/check-workflow-status?workflow=android
-status: up
-code: 200
-responseTime: 1278
-lastUpdated: 2023-07-29T23:26:37.302Z
+status: down
+code: 500
+responseTime: 938
+lastUpdated: 2023-07-29T23:35:37.164Z
 startTime: Fri Jul 28 2023 01:10:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
