@@ -1,7 +1,7 @@
 url: https://wcclrbfbgolsffkzxlay.supabase.co/functions/v1/check-workflow-status?workflow=web
 status: up
 code: 200
-responseTime: 301
-lastUpdated: 2023-08-31T23:04:09.503Z
+responseTime: 272
+lastUpdated: 2023-09-01T23:04:01.662Z
 startTime: 2023-07-28T01:10:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
