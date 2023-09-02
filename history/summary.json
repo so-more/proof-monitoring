@@ -109,7 +109,7 @@
     "timeMonth": 1382,
     "timeYear": 1346,
     "dailyMinutesDown": {
-      "2023-09-02": 14,
+      "2023-09-02": 652,
       "2023-09-01": 1440,
       "2023-08-31": 1440,
       "2023-08-30": 1440,
@@ -165,7 +165,7 @@
     "timeMonth": 909,
     "timeYear": 794,
     "dailyMinutesDown": {
-      "2023-09-02": 14,
+      "2023-09-02": 653,
       "2023-09-01": 1440,
       "2023-08-31": 1440,
       "2023-08-30": 1440,
@@ -227,17 +227,19 @@
     "url": "https://wcclrbfbgolsffkzxlay.supabase.co/functions/v1/check-workflow-status?workflow=builds",
     "icon": "https://icons.duckduckgo.com/ip3/wcclrbfbgolsffkzxlay.supabase.co.ico",
     "slug": "proof-builds",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1264,
-    "timeDay": 883,
-    "timeWeek": 3006,
-    "timeMonth": 1410,
-    "timeYear": 1264,
-    "dailyMinutesDown": {}
+    "time": 1256,
+    "timeDay": 909,
+    "timeWeek": 2747,
+    "timeMonth": 1395,
+    "timeYear": 1256,
+    "dailyMinutesDown": {
+      "2023-09-02": 0
+    }
   }
 ]
