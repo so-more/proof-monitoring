@@ -109,7 +109,8 @@
     "timeMonth": 1407,
     "timeYear": 1348,
     "dailyMinutesDown": {
-      "2023-09-03": 1438,
+      "2023-09-04": 15,
+      "2023-09-03": 1440,
       "2023-09-02": 1440,
       "2023-09-01": 1440,
       "2023-08-31": 1440,
@@ -166,7 +167,8 @@
     "timeMonth": 1009,
     "timeYear": 875,
     "dailyMinutesDown": {
-      "2023-09-03": 1438,
+      "2023-09-04": 15,
+      "2023-09-03": 1440,
       "2023-09-02": 1440,
       "2023-09-01": 1440,
       "2023-08-31": 1440,
@@ -212,18 +214,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/wcclrbfbgolsffkzxlay.supabase.co.ico",
     "slug": "proof-deployments-web",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 642,
     "timeDay": 226,
     "timeWeek": 1611,
     "timeMonth": 746,
     "timeYear": 642,
     "dailyMinutesDown": {
-      "2023-09-03": 0
+      "2023-09-04": 15,
+      "2023-09-03": 2
     }
   },
   {
@@ -232,18 +235,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/wcclrbfbgolsffkzxlay.supabase.co.ico",
     "slug": "proof-builds",
     "status": "down",
-    "uptime": "95.93%",
+    "uptime": "95.90%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "77.92%",
-    "uptimeMonth": "94.92%",
-    "uptimeYear": "95.93%",
+    "uptimeWeek": "77.75%",
+    "uptimeMonth": "94.88%",
+    "uptimeYear": "95.90%",
     "time": 1322,
     "timeDay": 976,
     "timeWeek": 3206,
     "timeMonth": 1501,
     "timeYear": 1322,
     "dailyMinutesDown": {
-      "2023-09-03": 1438,
+      "2023-09-04": 15,
+      "2023-09-03": 1440,
       "2023-09-02": 788
     }
   }
