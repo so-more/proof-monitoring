@@ -1,7 +1,7 @@
 url: https://wcclrbfbgolsffkzxlay.supabase.co/functions/v1/check-workflow-status?workflow=ios
 status: down
 code: 500
-responseTime: 840
-lastUpdated: 2023-09-07T23:04:20.940Z
+responseTime: 802
+lastUpdated: 2023-09-08T23:03:58.768Z
 startTime: 2023-07-28T01:10:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
