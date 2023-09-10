@@ -23,7 +23,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.interseed.app
   #baseUrl: /proof-monitoring
-  logoUrl: https://wcclrbfbgolsffkzxlay.supabase.co/storage/v1/object/public/public_assets/images/interseed/interseed_icon_light.png
+  logoUrl: https://wcclrbfbgolsffkzxlay.supabase.co/storage/v1/object/public/public_assets/images/interseed/interseed_logo_light.png
   name: ' '
   introTitle: Interseed is the AI-driven application that empowers entrepreneurs and small businesses to accelerate their success with less risk.
   introMessage: Harness the power of AI with Interseed to propel your business forward. Our application is designed to minimize risks and maximize success for entrepreneurs and small businesses. No need for extensive resources or technical knowledge. Let Proof do the heavy lifting, so you can focus on what you do best – growing your business.
