@@ -76,19 +76,19 @@
     "url": "https://interseed.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/interseed.co.uk.ico",
     "slug": "website-interseed-co-uk",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 770,
-    "timeDay": 770,
-    "timeWeek": 685,
-    "timeMonth": 770,
-    "timeYear": 770,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 769,
+    "timeDay": 750,
+    "timeWeek": 690,
+    "timeMonth": 769,
+    "timeYear": 769,
     "dailyMinutesDown": {
-      "2023-10-03": 0
+      "2023-10-03": 9
     }
   },
   {
@@ -96,19 +96,19 @@
     "url": "https://www.interseed.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.interseed.co.uk.ico",
     "slug": "website-www-interseed-co-uk",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 147,
-    "timeDay": 289,
-    "timeWeek": 198,
-    "timeMonth": 147,
-    "timeYear": 147,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 153,
+    "timeDay": 296,
+    "timeWeek": 211,
+    "timeMonth": 153,
+    "timeYear": 153,
     "dailyMinutesDown": {
-      "2023-10-03": 0
+      "2023-10-03": 9
     }
   }
 ]
