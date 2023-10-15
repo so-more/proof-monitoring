@@ -4,14 +4,14 @@
     "url": "https://interseed.app",
     "icon": "https://icons.duckduckgo.com/ip3/interseed.app.ico",
     "slug": "interseed-interseed-app",
-    "status": "up",
+    "status": "down",
     "uptime": "96.71%",
-    "uptimeDay": "70.46%",
+    "uptimeDay": "71.06%",
     "uptimeWeek": "83.29%",
     "uptimeMonth": "96.15%",
     "uptimeYear": "96.71%",
     "time": 114,
-    "timeDay": 162,
+    "timeDay": 163,
     "timeWeek": 115,
     "timeMonth": 114,
     "timeYear": 114,
@@ -83,19 +83,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/interseed.co.uk.ico",
     "slug": "website-interseed-co-uk",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 725,
-    "timeDay": 504,
+    "timeDay": 587,
     "timeWeek": 593,
     "timeMonth": 748,
     "timeYear": 725,
-    "dailyMinutesDown": {
-      "2023-10-15": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Website (www.interseed.co.uk)",
@@ -103,18 +101,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.interseed.co.uk.ico",
     "slug": "website-www-interseed-co-uk",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 154,
-    "timeDay": 130,
+    "timeDay": 161,
     "timeWeek": 151,
     "timeMonth": 157,
     "timeYear": 154,
-    "dailyMinutesDown": {
-      "2023-10-15": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
