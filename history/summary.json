@@ -4,14 +4,14 @@
     "url": "https://interseed.app",
     "icon": "https://icons.duckduckgo.com/ip3/interseed.app.ico",
     "slug": "interseed-interseed-app",
-    "status": "up",
-    "uptime": "87.64%",
-    "uptimeDay": "9.01%",
-    "uptimeWeek": "24.70%",
-    "uptimeMonth": "82.23%",
-    "uptimeYear": "87.64%",
+    "status": "down",
+    "uptime": "87.68%",
+    "uptimeDay": "9.63%",
+    "uptimeWeek": "24.78%",
+    "uptimeMonth": "82.28%",
+    "uptimeYear": "87.68%",
     "time": 117,
-    "timeDay": 110,
+    "timeDay": 109,
     "timeWeek": 128,
     "timeMonth": 118,
     "timeYear": 117,
@@ -23,7 +23,7 @@
       "2023-10-19": 1241,
       "2023-10-18": 986,
       "2023-10-17": 512,
-      "2023-10-16": 269
+      "2023-10-16": 244
     }
   },
   {
